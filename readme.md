@@ -4,6 +4,8 @@
 
 FavorDeploy is a deployment utility for managing WordPress theme deployments. It simplifies the process of building assets and deploying them to a remote server using rsync.
 
+Minimum node version is Dubnium v10.24.1.
+
 **NOTE: Still in beta.**
 
 ## Configuration
