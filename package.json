@@ -1,6 +1,6 @@
 {
   "name": "favordeploy",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Deployment utility for managing WordPress theme deployments",
   "main": "favordeploy.js",
   "keywords": [],
