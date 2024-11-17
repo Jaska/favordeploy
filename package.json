@@ -8,5 +8,13 @@
   "license": "MIT",
   "dependencies": {
     "dotenv": "^16.4.5"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaska/favordeploy.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jaska/favordeploy/issues"
+  },
+  "homepage": "https://github.com/jaska/favordeploy#readme"
 }
