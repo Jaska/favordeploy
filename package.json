@@ -1,0 +1,12 @@
+{
+  "name": "favordeploy",
+  "version": "0.1.0",
+  "description": "Deployment utility for managing WordPress theme deployments",
+  "main": "favordeploy.js",
+  "keywords": [],
+  "author": "Favor Company Inc.",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.4.5"
+  }
+}

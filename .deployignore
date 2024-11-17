@@ -1,0 +1,24 @@
+# Exclude dotfiles
+.*
+.*/*
+
+# Exclude common files and directories
+
+.DS_Store
+Thumbs.db
+node_modules/
+vendor/
+.cache/
+.git/
+.gitignore
+.svn/
+.env
+.env.example
+deploy.sh
+
+yarn-error.log
+*.log
+yarn.lock
+
+# exclude dev assets
+assets
