@@ -1,7 +1,6 @@
 const fs = require("fs");
 const path = require("path");
 const { execSync } = require("child_process");
-const { get } = require("browser-sync");
 const processPath = process.cwd(); // Base path of the project, has .env files etc.
 
 // Run the main deployment function
